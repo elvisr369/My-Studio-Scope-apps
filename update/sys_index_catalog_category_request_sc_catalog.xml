@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>sc_catalog</col_name_string>
+        <index_col_name element="sc_catalog" name="catalog_category_request">5225268bdbc10010262d5fc74b96191a</index_col_name>
+        <logical_table_name>catalog_category_request</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-01-24 19:24:53</sys_created_on>
+        <sys_id>8809c261db2600105803487039961981</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_category_request</sys_name>
+        <sys_package display_value="Elvis369application" source="x_95216_elvis369ap">11d047a6dbd2001058034870399619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Elvis369application">11d047a6dbd2001058034870399619cd</sys_scope>
+        <sys_update_name>sys_index_catalog_category_request_sc_catalog</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-01-24 19:24:53</sys_updated_on>
+        <table display_value="Service Category" name="catalog_category_request">de25268bdbc10010262d5fc74b96190d</table>
+        <unique_index>true</unique_index>
+    </sys_index>
+</record_update>
